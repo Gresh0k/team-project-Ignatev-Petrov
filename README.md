@@ -1,1 +1,2 @@
-# team-project-Ignatev-Petrov
+# My First Project
+Студент: Игнатьев Максим и Петров Алексей
