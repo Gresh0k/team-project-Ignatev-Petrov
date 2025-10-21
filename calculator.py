@@ -1,4 +1,4 @@
-def add(a, b): return a + b
-def sub(a, b): return a - b
-def off(a, b): return a * b
-print(add)
+def add(a, b): return a - b
+def sub(a, b): return a * b
+def off(a, b): return a + b
+print(off)
